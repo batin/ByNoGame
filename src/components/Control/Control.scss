@@ -1,0 +1,54 @@
+@import "../Colors.scss";
+
+.addItem {
+  
+  input {
+    width: 80%;
+    height: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    border: none;
+    border-bottom: 3px solid $dark;
+    color: $dark;
+    padding-left: 10px;
+    outline: none;
+  }
+  button {
+    text-transform: uppercase;
+    border: none;
+    background-color: $dark;
+    color: $white;
+    border-radius: 5px;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 10%;
+    outline: 0;
+    height: 30px;
+  }
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: $blue;
+  padding: 5px;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: $blue;
+  padding: 5px;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: $blue;
+  padding: 5px;
+}
+
+.cardContainer {
+  border-radius: 15px;
+}
+
+.disabled {
+  background-color: rgba($color: $dark, $alpha: .5) !important;
+
+}

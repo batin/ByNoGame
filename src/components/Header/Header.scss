@@ -1,0 +1,19 @@
+@import "../Colors.scss";
+
+header {
+  div {
+    background-color: $pink;
+    min-height: 5vh;
+    display: flex;
+    justify-content: center;
+    padding-top: 1em;
+    h1 {
+      font-size: 4vw;
+      .heading {
+        font-size: inherit;
+        color: $white;
+        text-decoration: none;
+      }
+    }
+  }
+}
