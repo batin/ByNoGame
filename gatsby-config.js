@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `ByNoGames Case Study`,
+    title: `ByNoGame`,
     description: `Shows images from given API.`,
     author: `@batin`,
   },

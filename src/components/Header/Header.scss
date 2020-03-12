@@ -7,13 +7,30 @@ header {
     display: flex;
     justify-content: center;
     padding-top: 1em;
-    h1 {
-      font-size: 4vw;
-      .heading {
-        font-size: inherit;
-        color: $white;
-        text-decoration: none;
-      }
+    img {
+      margin-top: 2vh;
+      padding-right: 2vh;
+      height: 10vh;
     }
+  }
+
+}
+
+.navbarDesktop {
+  position: absolute;
+  left: 0;
+  ul {
+    display: flex;
+    li {
+      margin: 20px;
+      margin-top: 50px;
+
+    }
+  }
+}
+
+@media screen and (max-width: 500px) /* Mobile */ {
+  .navbarDesktop {
+    display: none; 
   }
 }
