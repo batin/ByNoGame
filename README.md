@@ -2,7 +2,6 @@
 <h1 align="center">
   ByNoGame Case Study
 </h1>
-## Made With
   <p style="margin: 30px;">
     <a href="https://www.gatsbyjs.org">
       <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="50" />
