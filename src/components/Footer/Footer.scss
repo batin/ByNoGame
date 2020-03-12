@@ -16,8 +16,7 @@ footer {
   }
 
   p {
-    width: 100vw;
-    margin-top: 7vh;
+    margin-top: 3vh;
     text-align: center;
   }
   a {
@@ -37,4 +36,19 @@ footer {
         margin-right: 10vw;
       }
     }
+}
+.footerTexts {
+  display: flex;
+
+  .left {
+    margin-left: 25vw;
+    width: 25vw;
+    text-align: right;
+  }
+
+  .right {
+    margin-right: 25vw;
+    width: 25vw;
+    text-align: left;
+  }
 }
