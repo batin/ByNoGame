@@ -76,7 +76,7 @@ nav {
 
 #menuToggle input:checked ~ span {
   opacity: 1;
-  transform: rotate(45deg) translate(4px, 7px);
+  transform: rotate(45deg) translate(0px, 4px);
   background: $pink;
   width: 20px;
 }
