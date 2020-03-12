@@ -6,7 +6,7 @@ import Control from '../components/Control/Control'
 
 const SecondPage = () => (
   <Layout>
-    <SEO title="Page two" />
+    <SEO title="Add Card" />
     <Control />
   </Layout>
 )
