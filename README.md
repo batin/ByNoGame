@@ -1,11 +1,16 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
+
 <h1 align="center">
   ByNoGame Case Study
 </h1>
+
+<div style="display: flex; justify-content: center">
+  <p ><h1> Made With </h1></p>
+  <p style="margin: 30px;">
+    <a href="https://www.gatsbyjs.org">
+      <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="50" />
+    </a>
+  </p>
+</div>
 
 ## 👨🏼‍💻 Personal
 
