@@ -1,14 +1,12 @@
-
+<p align="center">
+  <a href="https://www.gatsbyjs.org">
+    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="50" />
+  </a>
+</p>
 <h1 align="center">
   ByNoGame Case Study
 </h1>
-  <p><h2> Made With </h2></p>
-  <p style="margin: 30px;">
-    <a href="https://www.gatsbyjs.org">
-      <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="50" />
-    </a>
-  </p>
-  
+
 ## 👨🏼‍💻 Personal
 
 🚀 [Guncel Repo](https://github.com/batin/batin.co)
